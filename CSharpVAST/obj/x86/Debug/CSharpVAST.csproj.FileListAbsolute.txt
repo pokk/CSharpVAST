@@ -1,0 +1,82 @@
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.exe
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.pdb
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Properties.Resources.resources
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\ResGen.read.1.tlog
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\ResGen.write.1.tlog
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.exe
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.pdb
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Game.resources
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Channel.resources
+D:\In NCU\Master 2\C# practice\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Listener.resources
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.exe
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.pdb
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Channel.resources
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Game.resources
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Listener.resources
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Properties.Resources.resources
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\ResGen.read.1.tlog
+D:\Master programming and paper\CSharpVAST\CSharpVAST\obj\x86\Debug\ResGen.write.1.tlog
+D:\Master programming and paper\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.exe
+D:\Master programming and paper\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.pdb
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.exe
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.pdb
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.exe
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.pdb
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Channel.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Game.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Listener.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Properties.Resources.resources
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.exe
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.pdb
+D:\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.exe
+D:\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.pdb
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Channel.resources
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Game.resources
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Listener.resources
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Properties.Resources.resources
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\ResGen.read.1.tlog
+D:\CSharpVAST\CSharpVAST\obj\x86\Debug\ResGen.write.1.tlog
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\CSharpVAST.exe
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\CSharpVAST.pdb
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\bin\Debug\CSharpVAST.exe
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\bin\Debug\CSharpVAST.pdb
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\CSharpVAST.Channel.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\CSharpVAST.Game.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\CSharpVAST.Listener.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\CSharpVAST.InputName.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST可輸入名字\CSharpVAST\obj\x86\Debug\CSharpVAST.Properties.Resources.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.InputName.resources
+D:\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Picture.resources
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.exe
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.pdb
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.exe
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.pdb
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\bin\Debug\Microsoft.DirectX.xml
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.csprojResolveAssemblyReference.cache
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Channel.resources
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Game.resources
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Listener.resources
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.InputName.resources
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Picture.resources
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Properties.Resources.resources
+D:\School Experience\In NCU\Master 2\My Paper\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.csproj.GenerateResource.Cache
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.exe
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.pdb
+D:\Programming\C#\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.exe
+D:\Programming\C#\CSharpVAST\CSharpVAST\bin\Debug\CSharpVAST.pdb
+D:\Programming\C#\CSharpVAST\CSharpVAST\bin\Debug\Microsoft.DirectX.xml
+D:\Programming\C#\CSharpVAST\CSharpVAST\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.csprojResolveAssemblyReference.cache
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Channel.resources
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Game.resources
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Listener.resources
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.InputName.resources
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Picture.resources
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.Properties.Resources.resources
+D:\Programming\C#\CSharpVAST\CSharpVAST\obj\x86\Debug\CSharpVAST.csproj.GenerateResource.Cache
